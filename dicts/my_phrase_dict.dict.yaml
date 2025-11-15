@@ -1,0 +1,56 @@
+---
+name: my_phrase_dict         # 词库名称（需唯一）
+version: "1.0"       # 版本号
+sort: by_weight      # 排序方式（by_weight 按词频，original 按顺序）
+columns:             # 定义列顺序
+  - text            # 词条
+  - code            # 编码
+  - weight          # 权重（词频）
+...
+哎！☝️🤓	ai	2
+爱莉爱莉爱	ailiailiai	1
+♪	ailixiya	2
+爱莉希雅	ailixiya	1
+b5	b	5
+🧊	by	2
+byd	byd	1
+草	c	1
+✓	dv	2
+fe	fe	1
+哈哈🤓	hahahaha	2
+哈哈	hh	1
+🤓	hh	2
+哈哈哈	hhh	1
+哈哈哈哈	hhhh	1
+哈哈哈哈哈	hhhhh	1
+哈哈哈哈哈哈	hhhhhh	1
+🌸🉑	hwke	2
+架绷	jb	1
+开放简历	klfhjmli	1
+开放简历 · 蟒蛇	klfhjmli	2
+linux	linux	1
+轮椅	lpyi	2
+🦌	lu	2
+🐎	ma	2
+|˄·͈༝·͈˄₎.｡oO	mkmk	2
+魔↗术↘技↘巧～	mouujiqc	2
+♂	nj	2
+の	no	1
+qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq	q	1
+qzsszvzbttltlwcndbp	qz	1
+啥b	sb	1
+suki	suki	1
+🍭	th	2
+我永远喜欢爱莉希雅	woysyrxihr	2
+🖐️🦘	wudl	2
+茜特菈莉	xit	1
+❤️	xn	2
+yd	yd	1
+✌️	ye	2
+「」	yh	2
+壱	yi	5
+♪	ynfu	2
+〇	yr	2
+zbbl	z	1
+※ xyhk  1
+（※似乎可行？） sihukexy  1

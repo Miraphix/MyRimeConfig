@@ -1,0 +1,6 @@
+# Rime user dictionary
+#@/db_name	melt_eng
+#@/db_type	userdb
+#@/rime_version	1.13.1
+#@/tick	0
+#@/user_id	36470f5f-8d91-4934-83ca-65193e57576d

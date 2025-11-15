@@ -1,0 +1,76 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# 个性化词语 - by @Mintimate
+# 建议自定义短语或者词语追加在这里
+---
+name: custom_simple
+version: "2023.11.30"
+sort: by_weight
+...
+
+# 人名
+# 常用语
+哈哈	ha ha	99
+macOS	mac	99
+可以	ke yi	99
+# 工具
+颜文字	yan wen zi	100
+# (｡>ㅅ<｡)
+Mintimate	mintimate	1
+https://www.mintimate.cn	mintimate	2
+Mintimate's Blog	mintimate	3
+# 输入法主题
+碧皓青	bi hao qing	99
+碧月青	bi yue qing	99
+蓝水鸭	lan shui ya	99
+黑水鸭	hei shui ya	99
+
+# 自定义
+哎！☝️🤓	ai	2
+爱莉爱莉爱	ailiailiai	1
+♪	ailixiya	2
+爱莉希雅	ailixiya	1
+🧊	by	2
+byd	byd	1
+草	c	1
+✓	dv	2
+fe	fe	1
+哈哈🤓	hahahaha	2
+哈哈	hh	1
+🤓	hh	2
+哈哈哈	hhh	1
+哈哈哈哈	hhhh	1
+哈哈哈哈哈	hhhhh	1
+哈哈哈哈哈哈	hhhhhh	1
+🌸🉑	hwke	2
+架绷	jb	1
+开放简历	klfhjmli	1
+开放简历·蟒蛇	klfhjmli	2
+linux	linux	1
+轮椅	lpyi	2
+🦌	lu	2
+🐎	ma	2
+|˄·͈༝·͈˄₎.｡oO	mkmk	2
+魔↗术↘技↘巧～	mouujiqc	2
+♂	nj	2
+の	no	1
+qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq	q	1
+qzsszvzbttltlwcndbp	qz	1
+啥b	sb	1
+suki	suki	1
+🍭	th	2
+我永远喜欢爱莉希雅	woysyrxihr	2
+🖐️🦘	wudl	2
+茜特菈莉	xite	1
+❤️	xn	2
+yd	yd	1
+✌️	ye	2
+「」	yh	2
+壱	yi	5
+♪	ynfu	2
+〇	yr	2
+🐭🐴✈️	uumafz	1
+对不起  dvbuq 1
+※ xyhk  1
+（※似乎可行？） sihukexy  1
