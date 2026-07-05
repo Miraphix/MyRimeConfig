@@ -1,0 +1,6 @@
+schema_list:
+    - schema: double_pinyin         # 自然码双拼
+
+menu:
+  # 候选词个数
+  page_size: 5
